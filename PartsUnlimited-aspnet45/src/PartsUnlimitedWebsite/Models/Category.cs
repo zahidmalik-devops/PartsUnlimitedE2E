@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 namespace PartsUnlimited.Models
 {
     
-    // This change is done in feature branch 
+    // Now jump to another change for pipeline.
     public class Category
     {
         public int CategoryId { get; set; }
